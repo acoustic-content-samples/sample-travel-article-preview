@@ -1,0 +1,106 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "1dcca594-df69-45bf-8409-5e4aac82490d",
+  "path": "/dxdam/6b/6be355ea-dac3-4e48-9e21-3e0106a2e9dd/image.png",
+  "digest": "8Q6mCY/mO10aLwjPK5gMeA==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=7194fc63-1e45-4e69-aa10-110dbb88097a&a=26231a0a-2af1-488d-a41f-a5a51226c156",
+      "source": "/authoring/v1/resources/7194fc63-1e45-4e69-aa10-110dbb88097a"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/26231a0a-2af1-488d-a41f-a5a51226c156"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/7194fc63-1e45-4e69-aa10-110dbb88097a.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/7194fc63-1e45-4e69-aa10-110dbb88097a?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/26231a0a-2af1-488d-a41f-a5a51226c156/status/retire"
+    }
+  },
+  "id": "26231a0a-2af1-488d-a41f-a5a51226c156",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:25.571Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-443bad65a4585ff2d01f6d54387ad7bd",
+  "creator": "Namer Namerko",
+  "altText": "A group of people sitting in a cafe in Buenos Aires.",
+  "resource": "7194fc63-1e45-4e69-aa10-110dbb88097a",
+  "created": "2020-02-27T10:40:50.314Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:cafe",
+      "classification:restaurant",
+      "classification:building",
+      "classification:estaminet (cafe)",
+      "classification:shop",
+      "classification:retail store",
+      "classification:brasserie",
+      "classification:reddish brown color"
+    ],
+    "declined": [
+      "classification:cafe",
+      "classification:restaurant",
+      "classification:building",
+      "classification:estaminet (cafe)",
+      "classification:brasserie",
+      "classification:reddish brown color"
+    ],
+    "values": [
+      "classification:shop",
+      "classification:retail store",
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "cafe",
+      "restaurant",
+      "building",
+      "estaminet (cafe)",
+      "shop",
+      "retail store",
+      "brasserie",
+      "reddish brown color"
+    ],
+    "colors": {
+      "vibrant": "#9c4e49",
+      "muted": "#998164",
+      "darkVibrant": "#4c4096",
+      "darkMuted": "#4e3e34",
+      "lightVibrant": "#d4a7a4",
+      "lightMuted": "#b19a80"
+    },
+    "status": "complete"
+  },
+  "fileSize": 962255,
+  "name": "Argentina-Article-Image",
+  "lastModified": "2020-02-27T11:05:25.571Z",
+  "status": "ready"
+}

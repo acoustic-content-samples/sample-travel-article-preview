@@ -1,0 +1,32 @@
+{
+  "id": "77abce3f-7a13-45ef-b1ce-11dbd11b61ff",
+  "rev": "19-1f1255c2e950e4f1fd243e7cc4c26353",
+  "name": "Canada",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "creator": "Namer Namerko",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "1a957f82-195d-4d34-8293-87a6de290580",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "1a957f82-195d-4d34-8293-87a6de290580"
+  ],
+  "namePath": [
+    "Locations",
+    "North America",
+    "Canada"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/77abce3f-7a13-45ef-b1ce-11dbd11b61ff"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/1a957f82-195d-4d34-8293-87a6de290580"
+    }
+  },
+  "created": "2020-02-27T10:40:43.333Z",
+  "lastModified": "2020-02-27T11:05:20.310Z"
+}

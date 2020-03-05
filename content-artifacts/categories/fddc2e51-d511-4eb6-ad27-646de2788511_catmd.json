@@ -1,0 +1,30 @@
+{
+  "id": "fddc2e51-d511-4eb6-ad27-646de2788511",
+  "rev": "19-10625706c6e52436e9dbaa7dd9927f19",
+  "name": "Asia",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "creator": "Namer Namerko",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791"
+  ],
+  "namePath": [
+    "Locations",
+    "Asia"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/fddc2e51-d511-4eb6-ad27-646de2788511"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    }
+  },
+  "created": "2020-02-27T10:40:43.239Z",
+  "lastModified": "2020-02-27T11:05:20.110Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "d330e3d6-91f6-4a58-8a89-a1e048a40590",
+  "rev": "10-ffacf369824375eead241b75965c9b4b",
+  "name": "Travel Article Preview",
+  "classification": "content-type",
+  "kind": [
+    "embedded",
+    "custom-ui"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [],
+  "uiExtensions": {
+    "element": "/dxauth/ui-extension-article-preview/index.html"
+  }
+}

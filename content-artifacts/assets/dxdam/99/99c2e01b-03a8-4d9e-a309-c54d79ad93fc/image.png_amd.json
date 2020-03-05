@@ -1,0 +1,127 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 634,
+    "height": 705
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "2bb08e0f-b267-49ab-8faf-627b22b4475c",
+  "path": "/dxdam/99/99c2e01b-03a8-4d9e-a309-c54d79ad93fc/image.png",
+  "digest": "x1SCIYG2Xj4SmBt72gOvDw==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=a085189d-418b-4696-9c81-29403381b20e&a=afe7d555-229f-47cd-8ba0-4513cb844ec2",
+      "source": "/authoring/v1/resources/a085189d-418b-4696-9c81-29403381b20e"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/afe7d555-229f-47cd-8ba0-4513cb844ec2"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/a085189d-418b-4696-9c81-29403381b20e.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/a085189d-418b-4696-9c81-29403381b20e?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/afe7d555-229f-47cd-8ba0-4513cb844ec2/status/retire"
+    }
+  },
+  "id": "afe7d555-229f-47cd-8ba0-4513cb844ec2",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:26.621Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-f249523ac2fc31f7060a01c73813fb57",
+  "creator": "Namer Namerko",
+  "altText": "A diver examines the school of fish underwater.",
+  "resource": "a085189d-418b-4696-9c81-29403381b20e",
+  "created": "2020-02-27T10:40:53.053Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:runner",
+      "classification:jack (fish)",
+      "classification:spiny-finned fish",
+      "classification:fish",
+      "classification:aquatic vertebrate",
+      "classification:animal",
+      "classification:grunt",
+      "classification:Bermuda chub",
+      "classification:spadefish",
+      "classification:coral reef",
+      "classification:ridge",
+      "classification:nature",
+      "classification:reef",
+      "classification:sea green color"
+    ],
+    "declined": [
+      "classification:reef",
+      "classification:ridge",
+      "classification:nature",
+      "classification:ocean floor",
+      "classification:coral reef",
+      "classification:grunt",
+      "classification:spiny-finned fish",
+      "classification:fish",
+      "classification:aquatic vertebrate",
+      "classification:animal",
+      "classification:benthos (bottom of sea and litoral)",
+      "classification:natural elevation",
+      "classification:sea green color"
+    ],
+    "values": [
+      "classification:Bermuda chub",
+      "classification:jack (fish)",
+      "user:travel site sample",
+      "classification:runner",
+      "classification:spadefish"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "runner",
+      "jack (fish)",
+      "spiny-finned fish",
+      "fish",
+      "aquatic vertebrate",
+      "animal",
+      "grunt",
+      "Bermuda chub",
+      "spadefish",
+      "coral reef",
+      "ridge",
+      "nature",
+      "reef",
+      "sea green color"
+    ],
+    "colors": {
+      "vibrant": "#468e9d",
+      "muted": "#5b9394",
+      "darkVibrant": "#146c7c",
+      "darkMuted": "#2d504f",
+      "lightVibrant": "#a3cdd6",
+      "lightMuted": "#b4d9d6"
+    },
+    "status": "complete"
+  },
+  "fileSize": 982338,
+  "name": "Diving-Kenya",
+  "lastModified": "2020-02-27T11:05:26.621Z",
+  "status": "ready"
+}

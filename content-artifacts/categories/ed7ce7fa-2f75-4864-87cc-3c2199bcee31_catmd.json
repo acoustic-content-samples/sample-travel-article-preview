@@ -1,0 +1,32 @@
+{
+  "id": "ed7ce7fa-2f75-4864-87cc-3c2199bcee31",
+  "rev": "19-8c640856555fbea53396c99ff9a434d0",
+  "name": "United States",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "creator": "Namer Namerko",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "1a957f82-195d-4d34-8293-87a6de290580",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "1a957f82-195d-4d34-8293-87a6de290580"
+  ],
+  "namePath": [
+    "Locations",
+    "North America",
+    "United States"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/ed7ce7fa-2f75-4864-87cc-3c2199bcee31"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/1a957f82-195d-4d34-8293-87a6de290580"
+    }
+  },
+  "created": "2020-02-27T10:40:43.751Z",
+  "lastModified": "2020-02-27T11:05:20.513Z"
+}

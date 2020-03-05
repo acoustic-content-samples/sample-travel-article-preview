@@ -1,0 +1,115 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "ab2bdb90-8dc2-4b5e-aedd-7aae10ed3c67",
+  "path": "/dxdam/f4/f48f5391-0ea4-4167-96f6-37bc2c9ed351/image.png",
+  "digest": "P6GDVIvpLugTRndrEAdWGw==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=65972492-1701-46ac-9b40-7624891f43a6&a=b8179008-d2f9-4fde-b019-b5ff3bc9a652",
+      "source": "/authoring/v1/resources/65972492-1701-46ac-9b40-7624891f43a6"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/b8179008-d2f9-4fde-b019-b5ff3bc9a652"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/65972492-1701-46ac-9b40-7624891f43a6.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/65972492-1701-46ac-9b40-7624891f43a6?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/b8179008-d2f9-4fde-b019-b5ff3bc9a652/status/retire"
+    }
+  },
+  "id": "b8179008-d2f9-4fde-b019-b5ff3bc9a652",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:28.580Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-22727fce28d4d80db4ae5ee881ecc3af",
+  "creator": "Namer Namerko",
+  "altText": "Basilica di San Marco in Venice, Italy.",
+  "resource": "65972492-1701-46ac-9b40-7624891f43a6",
+  "created": "2020-02-27T10:40:59.020Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:religious building",
+      "classification:building",
+      "classification:gondola",
+      "classification:boat",
+      "classification:watercraft",
+      "classification:craft",
+      "classification:vehicle",
+      "classification:basilic (church/roman building)a",
+      "classification:guildhall (ornate building)",
+      "classification:hall",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:gondola",
+      "classification:boat",
+      "classification:watercraft",
+      "classification:craft",
+      "classification:vehicle",
+      "classification:religious building",
+      "classification:building",
+      "classification:basilic (church/roman building)a",
+      "classification:guildhall (ornate building)",
+      "classification:hall",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "religious building",
+      "building",
+      "gondola",
+      "boat",
+      "watercraft",
+      "craft",
+      "vehicle",
+      "basilic (church/roman building)a",
+      "guildhall (ornate building)",
+      "hall",
+      "blue color"
+    ],
+    "colors": {
+      "vibrant": "#19e5a5",
+      "muted": "#a87858",
+      "darkVibrant": "#04241a",
+      "darkMuted": "#583c28",
+      "lightVibrant": "#87f1d0",
+      "lightMuted": "#b8c4cc"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1384949,
+  "name": "Italy-Article-Image1",
+  "lastModified": "2020-02-27T11:05:28.580Z",
+  "status": "ready"
+}

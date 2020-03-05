@@ -1,0 +1,32 @@
+{
+  "id": "62bc29c6-3b62-4820-b322-20072f1d606e",
+  "rev": "19-b52d03f080cbeb8ce3098863656c8550",
+  "name": "Singapore",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "creator": "Namer Namerko",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "fddc2e51-d511-4eb6-ad27-646de2788511",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "fddc2e51-d511-4eb6-ad27-646de2788511"
+  ],
+  "namePath": [
+    "Locations",
+    "Asia",
+    "Singapore"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/62bc29c6-3b62-4820-b322-20072f1d606e"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/fddc2e51-d511-4eb6-ad27-646de2788511"
+    }
+  },
+  "created": "2020-02-27T10:40:43.428Z",
+  "lastModified": "2020-02-27T11:05:20.206Z"
+}

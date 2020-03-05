@@ -1,0 +1,32 @@
+{
+  "id": "afff9e99-d059-42c2-84e3-ac59e1ea371a",
+  "rev": "19-8c3be258bf737aaa2da86c2fa0859e80",
+  "name": "Japan",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "creator": "Namer Namerko",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "fddc2e51-d511-4eb6-ad27-646de2788511",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "fddc2e51-d511-4eb6-ad27-646de2788511"
+  ],
+  "namePath": [
+    "Locations",
+    "Asia",
+    "Japan"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/afff9e99-d059-42c2-84e3-ac59e1ea371a"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/fddc2e51-d511-4eb6-ad27-646de2788511"
+    }
+  },
+  "created": "2020-02-27T10:40:43.655Z",
+  "lastModified": "2020-02-27T11:05:20.371Z"
+}

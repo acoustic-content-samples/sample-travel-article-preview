@@ -1,0 +1,116 @@
+{
+  "rev": "25-b80d2689ab9f02e781c47d90f866e7f9",
+  "creator": "Namer Namerko",
+  "thumbnail": {
+    "id": "3a835c8d-eaa7-4dde-88e2-34b7980a3f43",
+    "url": "/authoring/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e?fit=inside%7C220:145"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-02-27T10:41:16.268Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "lastModifier": "Namer Namerko",
+  "classification": "content",
+  "type": "Travel Article",
+  "locale": "en",
+  "tags": [
+    "user:travel site sample",
+    "user:hiking"
+  ],
+  "elements": {
+    "travelArticlePreview": {
+      "elementType": "group",
+      "typeRef": {
+        "id": "d330e3d6-91f6-4a58-8a89-a1e048a40590"
+      }
+    },
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "a26366ee-c584-4c2f-9147-3b92664792b0"
+      ],
+      "categories": [
+        "Locations/South America/Peru"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "The Overlooked Places of Peru"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "renditions": {
+        "card": {
+          "source": "/authoring/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e?resize=830px:250px&crop=250:250;290,0",
+          "width": 250,
+          "height": 250,
+          "transform": {
+            "scale": 0.43252,
+            "crop": {
+              "x": 290,
+              "y": 0,
+              "width": 250,
+              "height": 250
+            }
+          }
+        },
+        "default": {
+          "width": 1920,
+          "source": "/authoring/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e",
+          "height": 578
+        }
+      },
+      "asset": {
+        "fileName": "Peru-Lead-Image.png",
+        "altText": "Historic landmarks on the mountain in Peru.",
+        "fileSize": 770538,
+        "width": 1920,
+        "mediaType": "image/png",
+        "id": "3a835c8d-eaa7-4dde-88e2-34b7980a3f43",
+        "resourceUri": "/authoring/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e",
+        "height": 578
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>Known primarily for Machu Picchu, Peru has many more secret and unusual places that can amaze even an experienced traveler. These hidden gems have one undoubtful advantage over the well-known Machu Picchu – there are a lot fewer tourists. Visiting Peru, make sure that you dedicate some time to ancient Sacsayhuamán, Moray, and Ollantaytambo.</em></p>\n\n<h2>Sacsayhuamán</h2>\n\n<p>Thought to be constructed by Inca in the 13th century, Sacsayhuamán is an astonishing Inca fortress on the outskirts of Cusco, the historic capital of the Inca Empire. It is believed that more than twenty thousand men mined the stones from the quarries and carried them for 20 kilometers to the hill of Cusco.</p>\n\n<div style=\"text-align:center;clear:both;padding:0px 0px 5px\"><img data-wch-asset-id=\"d8a9d62c-07d5-4e4b-b264-05163244d579\" height=\"306\" src=\"/api/authoring/v1/resources/2df752a3-593d-4568-aa60-f0659213ad7d.png\" width=\"750\" /></div>\n\n<p>Only 40 percent of the Sacsayhuaman building&#39;s initial structure is retained. Even so, the fortress still has structures of more than 120 tons of weight and offers an amazing view of Cusco.</p>\n\n<p> </p>\n\n<h2>Moray</h2>\n\n<p><img data-wch-asset-id=\"3d3ba77d-b4f4-4e23-8c0f-c6aa35026009\" height=\"267\" src=\"/api/authoring/v1/resources/8b0003f5-fdb3-45b8-83ed-08ad5cd235c5.png\" style=\"float:right;padding:0px 0px 0px 10px\" width=\"400\" />Moray is the name of the Incan ruins near the Maras city, located 600 meters above the Sacred Valley of the Incas.</p>\n\n<p>These ruins are widely believed to be the crop laboratory of Inca that was likely used to cultivate resistant breeds of crops high in the Andes.</p>\n\n<p>Seeds cultivated at this laboratory were presumably sent throughout the Inca empire to increase crop yield in the tough conditions of the Andes.</p>\n\n<p>Today Moray is a series of circular agricultural terraces on plateaus 400 meters above the valley bottom.</p>\n\n<p> </p>\n\n<h2>Ollantaytambo</h2>\n\n<p><img data-wch-asset-id=\"42a258ed-6031-4c7d-9505-aa8cf63f6c9c\" height=\"308\" src=\"/api/authoring/v1/resources/1f16791b-938d-4598-ac4a-e766a1e0bf57.png\" style=\"float:left;padding:0px 20px 0px 0px\" width=\"375\" />Located at the northern end of the Sacred Valley, Ollantaytambo was a major Inca city and entry point to the Antisuyo, the Amazon corner of the Inca Empire.</p>\n\n<p>Ollantaytambo served as the last fortress for the Inca resistance during the Spanish invasion.</p>\n\n<p>Significant historical places of Ollantaytambo that must be seen by anyone who visits Peru include:</p>\n\n<ul><li>The Inca Fortress and Temple,</li><li>The Inca Granaries of Pinkulluna,</li><li>Inca Bridge and Valley Hike,</li><li>Ancient Streets of Ollantaytambo.</li></ul>\n"
+    }
+  },
+  "name": "Peru Travel Article",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "links": {
+    "thumbnail": {
+      "href": "/authoring/v1/resources/474ec64c-4b62-4e96-abd1-abf85b10891e?fit=inside%7C220:145"
+    },
+    "createDraft": {
+      "href": "/authoring/v1/content/279ba19d-226f-4d51-a980-50f2387c96f6/create-draft"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/279ba19d-226f-4d51-a980-50f2387c96f6/status/retire"
+    },
+    "self": {
+      "href": "/authoring/v1/content/279ba19d-226f-4d51-a980-50f2387c96f6"
+    },
+    "type": {
+      "href": "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+    }
+  },
+  "id": "279ba19d-226f-4d51-a980-50f2387c96f6",
+  "lastModified": "2020-02-27T11:05:29.676Z",
+  "systemModified": "2020-02-27T11:05:29.676Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "status": "ready"
+}

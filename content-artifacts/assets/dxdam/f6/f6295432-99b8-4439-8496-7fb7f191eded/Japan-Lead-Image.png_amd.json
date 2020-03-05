@@ -1,0 +1,134 @@
+{
+  "fileName": "Japan-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "beaa6d9d-1c88-4c9d-9527-2a779e10d613",
+  "path": "/dxdam/f6/f6295432-99b8-4439-8496-7fb7f191eded/Japan-Lead-Image.png",
+  "digest": "J8wImZK8eDYSUa/fImEIsg==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=fb926b26-a3d7-4236-92ca-75f48cfdf343&a=f6295432-99b8-4439-8496-7fb7f191eded",
+      "source": "/authoring/v1/resources/fb926b26-a3d7-4236-92ca-75f48cfdf343"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/f6295432-99b8-4439-8496-7fb7f191eded"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/fb926b26-a3d7-4236-92ca-75f48cfdf343.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/fb926b26-a3d7-4236-92ca-75f48cfdf343?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/f6295432-99b8-4439-8496-7fb7f191eded/status/retire"
+    }
+  },
+  "id": "f6295432-99b8-4439-8496-7fb7f191eded",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:28.784Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName": "Travel Article Image Profile",
+      "key": "card",
+      "label": "Card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/fb926b26-a3d7-4236-92ca-75f48cfdf343?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "34-13285d99db51a06b79776eeb1852e05f",
+  "creator": "Namer Namerko",
+  "altText": "An authentic store in one of Tokyo's small towns.",
+  "resource": "fb926b26-a3d7-4236-92ca-75f48cfdf343",
+  "created": "2020-02-27T10:40:58.674Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:display window",
+      "classification:window",
+      "classification:framework",
+      "classification:supporting structure",
+      "classification:thriftshop",
+      "classification:shop",
+      "classification:retail store",
+      "classification:building",
+      "classification:department store",
+      "classification:indoors"
+    ],
+    "declined": [],
+    "values": [
+      "classification:display window",
+      "classification:window",
+      "classification:thriftshop",
+      "classification:retail store",
+      "classification:department store",
+      "user:travel site sample",
+      "classification:shop",
+      "classification:framework",
+      "classification:indoors",
+      "classification:supporting structure",
+      "classification:building"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "display window",
+      "window",
+      "framework",
+      "supporting structure",
+      "thriftshop",
+      "shop",
+      "retail store",
+      "building",
+      "department store",
+      "indoors"
+    ],
+    "colors": {
+      "vibrant": "#d14b39",
+      "muted": "#8e7c73",
+      "darkVibrant": "#6c4532",
+      "darkMuted": "#334b57",
+      "lightVibrant": "#ecbd9c",
+      "lightMuted": "#c5b1a6"
+    },
+    "status": "complete"
+  },
+  "fileSize": 597754,
+  "name": "Japan-Lead-Image.png",
+  "lastModified": "2020-02-27T11:05:28.784Z",
+  "status": "ready"
+}

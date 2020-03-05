@@ -1,0 +1,129 @@
+{
+  "fileName": "US-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "41e50928-bb43-48a4-a694-d27ffd71ca30",
+  "path": "/dxdam/8f/8f0a363d-691a-417e-8e68-01a84a4be2aa/US-Lead-Image.png",
+  "digest": "Z2BHqX43iKpdWISyz7r/gw==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=9fab6f79-847c-43f0-ab14-c645e95124db&a=8f0a363d-691a-417e-8e68-01a84a4be2aa",
+      "source": "/authoring/v1/resources/9fab6f79-847c-43f0-ab14-c645e95124db"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/8f0a363d-691a-417e-8e68-01a84a4be2aa"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/9fab6f79-847c-43f0-ab14-c645e95124db.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/9fab6f79-847c-43f0-ab14-c645e95124db?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/8f0a363d-691a-417e-8e68-01a84a4be2aa/status/retire"
+    }
+  },
+  "id": "8f0a363d-691a-417e-8e68-01a84a4be2aa",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:26.594Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName": "Travel Article Image Profile",
+      "key": "card",
+      "label": "Card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/9fab6f79-847c-43f0-ab14-c645e95124db?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "34-e029091786b98480281a5ada93b8a511",
+  "creator": "Namer Namerko",
+  "altText": "A man walks through the snowy mountains in the USA.",
+  "resource": "9fab6f79-847c-43f0-ab14-c645e95124db",
+  "created": "2020-02-27T10:40:51.932Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:Snow Scene",
+      "classification:nature",
+      "classification:Snowy Mountains",
+      "classification:ski slope",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:tree",
+      "classification:gray color"
+    ],
+    "declined": [
+      "classification:Snow Scene",
+      "classification:nature",
+      "classification:Snowy Mountains",
+      "classification:ski slope",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:tree",
+      "classification:gray color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Snow Scene",
+      "nature",
+      "Snowy Mountains",
+      "ski slope",
+      "slope",
+      "natural elevation",
+      "tree",
+      "gray color"
+    ],
+    "colors": {
+      "vibrant": "#8e7f70",
+      "muted": "#7a7268",
+      "darkVibrant": "#4a423a",
+      "darkMuted": "#3f3a31",
+      "lightVibrant": "#c4bcb4",
+      "lightMuted": "#c4bcb4"
+    },
+    "status": "complete"
+  },
+  "fileSize": 959115,
+  "name": "US-Lead-Image.png",
+  "lastModified": "2020-02-27T11:05:26.594Z",
+  "status": "ready"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ef2c6a7b-2f72-42c4-a35a-6599b530f056",
+  "rev": "19-4c22fc2d8604f9888d27a0c9d0b95944",
+  "name": "Europe",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "creator": "Namer Namerko",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791"
+  ],
+  "namePath": [
+    "Locations",
+    "Europe"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/ef2c6a7b-2f72-42c4-a35a-6599b530f056"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    }
+  },
+  "created": "2020-02-27T10:40:43.170Z",
+  "lastModified": "2020-02-27T11:05:20.147Z"
+}

@@ -1,0 +1,91 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1839,
+    "height": 897
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "0a471692-ba6c-4d64-b7cb-d8d8a914c3b7",
+  "path": "/dxdam/c8/c817c653-c1bb-433b-8ccb-f59dd786d5a8/image.png",
+  "digest": "k9YDr5A5klJzW/rzu59kbg==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=8b1e8cc4-f5e8-4655-aac3-4e02d71991e3&a=8af36ee2-c7c1-4e1e-9393-b7578a6f6cd9",
+      "source": "/authoring/v1/resources/8b1e8cc4-f5e8-4655-aac3-4e02d71991e3"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/8af36ee2-c7c1-4e1e-9393-b7578a6f6cd9"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/8b1e8cc4-f5e8-4655-aac3-4e02d71991e3.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/8b1e8cc4-f5e8-4655-aac3-4e02d71991e3?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/8af36ee2-c7c1-4e1e-9393-b7578a6f6cd9/status/retire"
+    }
+  },
+  "id": "8af36ee2-c7c1-4e1e-9393-b7578a6f6cd9",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:28.929Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-26365e9259c463c57a62248ea8661451",
+  "creator": "Namer Namerko",
+  "altText": "View on the sunset from the shore of one of the islands of Japan.",
+  "resource": "8b1e8cc4-f5e8-4655-aac3-4e02d71991e3",
+  "created": "2020-02-27T10:41:00.714Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:Sunset",
+      "classification:blue color",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:Sunset",
+      "classification:blue color",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Sunset",
+      "blue color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "vibrant": "#ed7929",
+      "muted": "#886c4a",
+      "darkVibrant": "#893e24",
+      "darkMuted": "#423124",
+      "lightVibrant": "#f5b042",
+      "lightMuted": "#915c07"
+    },
+    "status": "complete"
+  },
+  "fileSize": 516971,
+  "name": "Japan-Article-Image",
+  "lastModified": "2020-02-27T11:05:28.929Z",
+  "status": "ready"
+}

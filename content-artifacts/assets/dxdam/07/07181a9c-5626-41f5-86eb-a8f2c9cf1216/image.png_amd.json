@@ -1,0 +1,115 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1050,
+    "height": 700
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "db64a0fe-2bba-434e-a52a-2b8f8d6e6e53",
+  "path": "/dxdam/07/07181a9c-5626-41f5-86eb-a8f2c9cf1216/image.png",
+  "digest": "k2TJkIbPLVRBd+b0PbA+/A==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=9400ce98-be49-45f8-95da-073e508ec3e2&a=299ef284-5467-4d02-8637-c2ade4446ce2",
+      "source": "/authoring/v1/resources/9400ce98-be49-45f8-95da-073e508ec3e2"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/299ef284-5467-4d02-8637-c2ade4446ce2"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/9400ce98-be49-45f8-95da-073e508ec3e2.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/9400ce98-be49-45f8-95da-073e508ec3e2?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/299ef284-5467-4d02-8637-c2ade4446ce2/status/retire"
+    }
+  },
+  "id": "299ef284-5467-4d02-8637-c2ade4446ce2",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:24.086Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-1e1097dc874566dd23e07370406a7e73",
+  "creator": "Namer Namerko",
+  "altText": "A person stands on a plain between the mountains in South Africa.",
+  "resource": "9400ce98-be49-45f8-95da-073e508ec3e2",
+  "created": "2020-02-27T10:40:45.037Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:valley",
+      "classification:nature",
+      "classification:alp",
+      "classification:hill",
+      "classification:hollow",
+      "classification:ridge",
+      "classification:hillside",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:greenishness color",
+      "classification:green color"
+    ],
+    "declined": [
+      "classification:valley",
+      "classification:nature",
+      "classification:alp",
+      "classification:hollow",
+      "classification:ridge",
+      "classification:hill",
+      "classification:hillside",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:greenishness color",
+      "classification:green color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "valley",
+      "nature",
+      "alp",
+      "hill",
+      "hollow",
+      "ridge",
+      "hillside",
+      "slope",
+      "natural elevation",
+      "greenishness color",
+      "green color"
+    ],
+    "colors": {
+      "vibrant": "#cba52a",
+      "muted": "#848961",
+      "darkVibrant": "#6b720e",
+      "darkMuted": "#3c5434",
+      "lightVibrant": "#8bc4fc",
+      "lightMuted": "#b6c4ac"
+    },
+    "status": "complete"
+  },
+  "fileSize": 417175,
+  "name": "South-Africa-Article-Image",
+  "lastModified": "2020-02-27T11:05:24.086Z",
+  "status": "ready"
+}

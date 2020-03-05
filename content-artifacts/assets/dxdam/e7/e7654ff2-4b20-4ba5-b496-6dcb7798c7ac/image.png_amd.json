@@ -1,0 +1,106 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1269
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "90da34d0-a0ac-4d46-8b67-93b2e6a56e3f",
+  "path": "/dxdam/e7/e7654ff2-4b20-4ba5-b496-6dcb7798c7ac/image.png",
+  "digest": "wruatLlRkJacJ8NpfojhmQ==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=82eff521-face-4443-bbf2-2e2609c5d83f&a=205af07b-ff41-4d8d-88db-c7a9b2af9f5c",
+      "source": "/authoring/v1/resources/82eff521-face-4443-bbf2-2e2609c5d83f"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/205af07b-ff41-4d8d-88db-c7a9b2af9f5c"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/82eff521-face-4443-bbf2-2e2609c5d83f.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/82eff521-face-4443-bbf2-2e2609c5d83f?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/205af07b-ff41-4d8d-88db-c7a9b2af9f5c/status/retire"
+    }
+  },
+  "id": "205af07b-ff41-4d8d-88db-c7a9b2af9f5c",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:28.303Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-a744bdf143c1235f89eeced8bfc0c18f",
+  "creator": "Namer Namerko",
+  "altText": "Galleria Vittorio Emanuele II in Milan, Italy.",
+  "resource": "82eff521-face-4443-bbf2-2e2609c5d83f",
+  "created": "2020-02-27T10:40:57.587Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:atrium of building",
+      "classification:courtyard",
+      "classification:arcade",
+      "classification:whispering gallery",
+      "classification:dome",
+      "classification:protective covering",
+      "classification:barrel vault",
+      "classification:building"
+    ],
+    "declined": [
+      "classification:atrium of building",
+      "classification:courtyard",
+      "classification:arcade",
+      "classification:barrel vault",
+      "classification:protective covering",
+      "classification:building"
+    ],
+    "values": [
+      "classification:whispering gallery",
+      "classification:dome",
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "atrium of building",
+      "courtyard",
+      "arcade",
+      "whispering gallery",
+      "dome",
+      "protective covering",
+      "barrel vault",
+      "building"
+    ],
+    "colors": {
+      "vibrant": "#8c5241",
+      "muted": "#9d7866",
+      "darkVibrant": "#562c1f",
+      "darkMuted": "#693f30",
+      "lightVibrant": "#dcc4ac",
+      "lightMuted": "#cfb2a1"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1784084,
+  "name": "Italy-Article-Image2",
+  "lastModified": "2020-02-27T11:05:28.303Z",
+  "status": "ready"
+}

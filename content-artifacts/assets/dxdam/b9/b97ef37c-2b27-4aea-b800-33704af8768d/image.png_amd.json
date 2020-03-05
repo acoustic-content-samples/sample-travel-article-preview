@@ -1,0 +1,112 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 980
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "c6c52ddd-7d21-4ae0-aad8-60b579536e24",
+  "path": "/dxdam/b9/b97ef37c-2b27-4aea-b800-33704af8768d/image.png",
+  "digest": "d6SfnvIrQdfLg7P/Xlgb9w==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=d7214db9-6753-4f35-9375-757fc6ba1b0d&a=11b91ef2-a94b-4889-bef0-7b8913216d96",
+      "source": "/authoring/v1/resources/d7214db9-6753-4f35-9375-757fc6ba1b0d"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/11b91ef2-a94b-4889-bef0-7b8913216d96"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/d7214db9-6753-4f35-9375-757fc6ba1b0d.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/d7214db9-6753-4f35-9375-757fc6ba1b0d?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/11b91ef2-a94b-4889-bef0-7b8913216d96/status/retire"
+    }
+  },
+  "id": "11b91ef2-a94b-4889-bef0-7b8913216d96",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:27.598Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-3ad5586e86f7f56bccffc368be39d26c",
+  "creator": "Namer Namerko",
+  "altText": "Botanical Garden in Singapore.",
+  "resource": "d7214db9-6753-4f35-9375-757fc6ba1b0d",
+  "created": "2020-02-27T10:40:56.428Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:epergne (centerpiece)",
+      "classification:streetlight",
+      "classification:lamp",
+      "classification:floor lamp",
+      "classification:furniture",
+      "classification:sugar palm",
+      "classification:palm",
+      "classification:tree",
+      "classification:plant",
+      "classification:greenishness color"
+    ],
+    "declined": [
+      "classification:streetlight",
+      "classification:lamp",
+      "classification:epergne (centerpiece)",
+      "classification:floor lamp",
+      "classification:furniture",
+      "classification:sugar palm",
+      "classification:palm",
+      "classification:tree",
+      "classification:plant",
+      "classification:greenishness color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "epergne (centerpiece)",
+      "streetlight",
+      "lamp",
+      "floor lamp",
+      "furniture",
+      "sugar palm",
+      "palm",
+      "tree",
+      "plant",
+      "greenishness color"
+    ],
+    "colors": {
+      "vibrant": "#908e2e",
+      "muted": "#978a79",
+      "darkVibrant": "#686a19",
+      "darkMuted": "#565829",
+      "lightVibrant": "#c0ac7c",
+      "lightMuted": "#bcb6ba"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1167107,
+  "name": "Singapore-Article-Image",
+  "lastModified": "2020-02-27T11:05:27.598Z",
+  "status": "ready"
+}

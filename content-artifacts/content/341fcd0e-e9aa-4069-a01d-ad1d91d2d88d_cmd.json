@@ -1,0 +1,115 @@
+{
+  "rev": "25-e9f7cc3276e8a9abc02b47defa7b7a1a",
+  "creator": "Namer Namerko",
+  "thumbnail": {
+    "id": "e5da3c02-9149-4cc4-aed8-6e554a0ab0ad",
+    "url": "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a?fit=inside%7C220:145"
+  },
+  "keywords": [],
+  "kind": [],
+  "created": "2020-02-27T10:41:16.393Z",
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "lastModifier": "Namer Namerko",
+  "classification": "content",
+  "type": "Travel Article",
+  "locale": "en",
+  "tags": [
+    "user:Travel Site Sample"
+  ],
+  "elements": {
+    "travelArticlePreview": {
+      "elementType": "group",
+      "typeRef": {
+        "id": "d330e3d6-91f6-4a58-8a89-a1e048a40590"
+      }
+    },
+    "countryOfTravelArticle": {
+      "categoryIds": [
+        "f47689e6-66aa-48d9-971a-fc9abdab26ce"
+      ],
+      "categories": [
+        "Locations/Africa/Kenya"
+      ],
+      "elementType": "category"
+    },
+    "travelArticleTitle": {
+      "elementType": "text",
+      "value": "The Wilderness of Kenya"
+    },
+    "travelArticleImage": {
+      "mode": "shared",
+      "profiles": [
+        "59414bcf-8ccb-4809-9117-47b7a64864a0"
+      ],
+      "renditions": {
+        "card": {
+          "source": "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a?resize=830px:250px&crop=250:250;290,0",
+          "width": 250,
+          "height": 250,
+          "transform": {
+            "scale": 0.43252,
+            "crop": {
+              "x": 290,
+              "y": 0,
+              "width": 250,
+              "height": 250
+            }
+          }
+        },
+        "default": {
+          "width": 1920,
+          "source": "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a",
+          "height": 578
+        }
+      },
+      "asset": {
+        "fileName": "Kenya-Lead-Image.png",
+        "altText": "A herd of elephants in the jungle.",
+        "fileSize": 833010,
+        "width": 1920,
+        "mediaType": "image/png",
+        "id": "e5da3c02-9149-4cc4-aed8-6e554a0ab0ad",
+        "resourceUri": "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a",
+        "height": 578
+      },
+      "elementType": "image"
+    },
+    "articleAuthor": {
+      "elementType": "text",
+      "value": "John Smith"
+    },
+    "travelArticleText": {
+      "elementType": "formattedtext",
+      "value": "<p><em>Kenya is a unique combination of the untouched culture of dozens of tribes, wildlife and the vibrant nightlife of cities. And if the nightlife is about the same in different cities across the globe, the nature of this country is what you have to come here for.</em></p>\n\n<h3>Explore Kenya With a Remarkable Safari</h3>\n\n<p>Kenya is considered the place where safari initially appeared. Vast magnificent national parks and conservancies are at your disposal to explore the wildlife of this country. It is one of the best places in Africa to see the &#34;Big Five&#34;: lion, leopard, buffalo, elephant, and rhino.</p>\n\n<p>Perfect places for safari would be <em>Masai Mara</em> and <em>Lake Nakuru</em>. Other destinations, where you can see most of the &#34;Big Five&#34; include Tsavo East, Tsavo West, Amboseli, Laikipia Plateau, Samburu-Buffalo Springs-Shaba, Meru, and Shimba Hills.</p>\n\n<div style=\"text-align:center;clear:both\"><img data-wch-asset-id=\"d2282eb0-f2ae-452c-aa20-e4e245f2cf0c\" height=\"513\" src=\"/api/authoring/v1/resources/696bf8a2-f214-4c72-9f9f-7326702674e6.png\" width=\"750\" /></div>\n\n<h3> See The Wilderness Beneath the Surface</h3>\n\n<p><img data-wch-asset-id=\"afe7d555-229f-47cd-8ba0-4513cb844ec2\" height=\"334\" src=\"/api/authoring/v1/resources/a085189d-418b-4696-9c81-29403381b20e.png\" style=\"float:left;padding:5px 20px 0px 0px\" width=\"300\" />Another popular activity in Kenya is diving - an &#39;underwater safari&#39; that provides a rare experience of exploring a large area of wild nature hidden beneath the surface of the Indian Ocean.</p>\n\n<p>Diving in Kenya is mostly fine throughout the year, although visibility decreases in July and August due to silting. The weather is almost always warm and sunny, with excellent water temperature, which creates ideal conditions for diving.</p>\n\n<p>Several first-class diving places that worth visiting include:</p>\n\n<ul><li>Sites of the coast <em>North of Mombasa</em>, with the best ones in the Watamu Marine National Park;</li><li>Dive site in the <em>Canyon</em> - a long sandy channel, bordered on each side by deep drop-offs;</li><li>Sites at <em>Mtwapa</em> and <em>Barracuda Reef</em>, where you can see large shoals of angel and butterfly fish, and the world’s largest shark - the impressive Whale Shark.</li></ul>\n\n<p> </p>\n\n<p> </p>\n\n<p> </p>\n\n<h3>Climb Africa’s Second-highest Mountain</h3>\n\n<p><img data-wch-asset-id=\"0985d53b-861f-4968-8c05-81788128d3db\" height=\"230\" src=\"/api/authoring/v1/resources/a402f549-ab69-4b11-ba83-628f28e4caff.png\" style=\"float:right;padding:0px 0px 0px 10px\" width=\"345\" />Mount Kenya is the highest mountain in Kenya (5,199 m) and second-highest in Africa, after Kilimanjaro (5,895 m).</p>\n\n<p>The main thing one has to remember about it is that the whole country of Kenya was named after this mountain.</p>\n\n<p>There are 12 slowly melting glaciers on the mountain and 4 secondary peaks that are at the head of the glacial valleys. With its glacier peaks and forested slopes, Mount Kenya is one of the most stunning sceneries in East Africa.</p>\n"
+    }
+  },
+  "name": "Kenya Travel Article",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "typeId": "020bc107-4d2a-4513-8988-bc0cd455bb98",
+  "links": {
+    "thumbnail": {
+      "href": "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a?fit=inside%7C220:145"
+    },
+    "createDraft": {
+      "href": "/authoring/v1/content/341fcd0e-e9aa-4069-a01d-ad1d91d2d88d/create-draft"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/content/341fcd0e-e9aa-4069-a01d-ad1d91d2d88d/status/retire"
+    },
+    "self": {
+      "href": "/authoring/v1/content/341fcd0e-e9aa-4069-a01d-ad1d91d2d88d"
+    },
+    "type": {
+      "href": "/authoring/v1/types/020bc107-4d2a-4513-8988-bc0cd455bb98"
+    }
+  },
+  "id": "341fcd0e-e9aa-4069-a01d-ad1d91d2d88d",
+  "lastModified": "2020-02-27T11:05:29.654Z",
+  "systemModified": "2020-02-27T11:05:29.654Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "status": "ready"
+}

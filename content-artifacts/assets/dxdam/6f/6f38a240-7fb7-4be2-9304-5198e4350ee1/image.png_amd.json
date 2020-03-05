@@ -1,0 +1,103 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1279
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "3cf29202-0710-43fd-9b75-b510fbcd822f",
+  "path": "/dxdam/6f/6f38a240-7fb7-4be2-9304-5198e4350ee1/image.png",
+  "digest": "gRMaT+SZ98GR+NVgZhVvPQ==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=126be044-ddaf-4c9c-bb07-156b1c97c592&a=6132847c-ecc6-41b7-83e0-20c29ace3d17",
+      "source": "/authoring/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/6132847c-ecc6-41b7-83e0-20c29ace3d17"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/126be044-ddaf-4c9c-bb07-156b1c97c592?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/6132847c-ecc6-41b7-83e0-20c29ace3d17/status/retire"
+    }
+  },
+  "id": "6132847c-ecc6-41b7-83e0-20c29ace3d17",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:25.973Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "37-c7564fb97990653c9feb20064df84259",
+  "creator": "Namer Namerko",
+  "altText": "A skier that climbs a mountain with skis on his shouder.",
+  "resource": "126be044-ddaf-4c9c-bb07-156b1c97c592",
+  "created": "2020-02-27T10:40:51.694Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:person",
+      "classification:ascent",
+      "classification:slope",
+      "classification:nature",
+      "classification:crest",
+      "classification:natural elevation",
+      "classification:azure color"
+    ],
+    "declined": [
+      "classification:person",
+      "classification:ascent",
+      "classification:slope",
+      "classification:nature",
+      "classification:crest",
+      "classification:natural elevation",
+      "classification:azure color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "person",
+      "ascent",
+      "slope",
+      "nature",
+      "crest",
+      "natural elevation",
+      "azure color"
+    ],
+    "colors": {
+      "vibrant": "#047bc5",
+      "muted": "#758386",
+      "darkVibrant": "#0461a7",
+      "darkMuted": "#2c345c",
+      "lightVibrant": "#d9ecfc",
+      "lightMuted": "#aabbc3"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1095065,
+  "name": "Canada-Article-Image",
+  "lastModified": "2020-02-27T11:05:25.973Z",
+  "status": "ready"
+}

@@ -1,0 +1,118 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1441
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "f47e5b2e-7218-4f26-874e-41be2ed1e8cc",
+  "path": "/dxdam/3d/3dadaadc-88f9-4442-8c92-c1c5e55e9b30/image.png",
+  "digest": "KChY3WBvpBj4pKpzUkAAIQ==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=bbd47b31-c0fa-46d4-a447-12892ff92a1c&a=8c2eabce-8ba4-45fb-bd19-41d525c6e2b3",
+      "source": "/authoring/v1/resources/bbd47b31-c0fa-46d4-a447-12892ff92a1c"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/8c2eabce-8ba4-45fb-bd19-41d525c6e2b3"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/bbd47b31-c0fa-46d4-a447-12892ff92a1c.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/bbd47b31-c0fa-46d4-a447-12892ff92a1c?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/8c2eabce-8ba4-45fb-bd19-41d525c6e2b3/status/retire"
+    }
+  },
+  "id": "8c2eabce-8ba4-45fb-bd19-41d525c6e2b3",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:27.711Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-d1634628a24b0623fc71346972f06f27",
+  "creator": "Namer Namerko",
+  "altText": "A coastline near Buenos Aires.",
+  "resource": "bbd47b31-c0fa-46d4-a447-12892ff92a1c",
+  "created": "2020-02-27T10:40:47.777Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:seashore",
+      "classification:shore",
+      "classification:nature",
+      "classification:beach",
+      "classification:littoral (sands)",
+      "classification:sandbank",
+      "classification:ridge",
+      "classification:outfall (outlet of river)",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:blue color",
+      "classification:azure color"
+    ],
+    "declined": [
+      "classification:slope"
+    ],
+    "values": [
+      "classification:azure color",
+      "classification:ridge",
+      "classification:seashore",
+      "classification:nature",
+      "classification:blue color",
+      "user:travel site sample",
+      "classification:natural elevation",
+      "classification:shore",
+      "classification:sandbank",
+      "classification:beach",
+      "classification:outfall (outlet of river)",
+      "classification:littoral (sands)"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "seashore",
+      "shore",
+      "nature",
+      "beach",
+      "littoral (sands)",
+      "sandbank",
+      "ridge",
+      "outfall (outlet of river)",
+      "slope",
+      "natural elevation",
+      "blue color",
+      "azure color"
+    ],
+    "colors": {
+      "vibrant": "#609bbc",
+      "muted": "#6890a9",
+      "darkVibrant": "#27495d",
+      "darkMuted": "#314c57",
+      "lightVibrant": "#f7ca81",
+      "lightMuted": "#95b4ba"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1105692,
+  "name": "Argentina-Article-Image",
+  "lastModified": "2020-02-27T11:05:27.711Z",
+  "status": "ready"
+}

@@ -1,0 +1,112 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1050,
+    "height": 700
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "77488d8f-2dc8-4a5e-8731-a4dece1841ec",
+  "path": "/dxdam/34/34073279-69e2-4ffe-b8bc-3e1665b9c075/image.png",
+  "digest": "9HFowyiuwme7BS51rHPwEA==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=34073279-69e2-4ffe-b8bc-3e1665b9c075&a=2d92c17c-2043-4506-a2da-d1d2f8be36e7",
+      "source": "/authoring/v1/resources/34073279-69e2-4ffe-b8bc-3e1665b9c075"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/2d92c17c-2043-4506-a2da-d1d2f8be36e7"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/34073279-69e2-4ffe-b8bc-3e1665b9c075.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/34073279-69e2-4ffe-b8bc-3e1665b9c075?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/2d92c17c-2043-4506-a2da-d1d2f8be36e7/status/retire"
+    }
+  },
+  "id": "2d92c17c-2043-4506-a2da-d1d2f8be36e7",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:24.900Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-32d98cc39d7a6725e0648b4587512ca3",
+  "creator": "Namer Namerko",
+  "altText": "The shore of one of the islands of Japan with boats on the water.",
+  "resource": "34073279-69e2-4ffe-b8bc-3e1665b9c075",
+  "created": "2020-02-27T10:40:47.815Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:reservoir",
+      "classification:storage tank",
+      "classification:lakefront",
+      "classification:nature",
+      "classification:lakeside",
+      "classification:shore",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:sea green color",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:reservoir",
+      "classification:storage tank",
+      "classification:lakefront",
+      "classification:nature",
+      "classification:lakeside",
+      "classification:shore",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:sea green color",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "reservoir",
+      "storage tank",
+      "lakefront",
+      "nature",
+      "lakeside",
+      "shore",
+      "slope",
+      "natural elevation",
+      "sea green color",
+      "blue color"
+    ],
+    "colors": {
+      "vibrant": "#217079",
+      "muted": "#5898a0",
+      "darkVibrant": "#1c5250",
+      "darkMuted": "#3c643c",
+      "lightVibrant": "#96dae2",
+      "lightMuted": "#b1ccc6"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1454201,
+  "name": "Japan-Article-Image",
+  "lastModified": "2020-02-27T11:05:24.900Z",
+  "status": "ready"
+}

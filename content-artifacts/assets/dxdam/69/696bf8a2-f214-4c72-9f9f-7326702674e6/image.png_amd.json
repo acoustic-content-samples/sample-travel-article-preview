@@ -1,0 +1,112 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1314
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "bbb5fbda-257c-44f4-8e67-22289ef24b63",
+  "path": "/dxdam/69/696bf8a2-f214-4c72-9f9f-7326702674e6/image.png",
+  "digest": "UlJyh5q81d7Wc+X5jE8h1w==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=cd436d62-e746-43eb-8be6-a3578d0b4bed&a=d2282eb0-f2ae-452c-aa20-e4e245f2cf0c",
+      "source": "/authoring/v1/resources/cd436d62-e746-43eb-8be6-a3578d0b4bed"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/d2282eb0-f2ae-452c-aa20-e4e245f2cf0c"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/cd436d62-e746-43eb-8be6-a3578d0b4bed.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/cd436d62-e746-43eb-8be6-a3578d0b4bed?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/d2282eb0-f2ae-452c-aa20-e4e245f2cf0c/status/retire"
+    }
+  },
+  "id": "d2282eb0-f2ae-452c-aa20-e4e245f2cf0c",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:25.995Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-d43e7a13110e4a64a04291e4e4a4ed92",
+  "creator": "Namer Namerko",
+  "altText": "A herd of buffalo crossing the field.",
+  "resource": "cd436d62-e746-43eb-8be6-a3578d0b4bed",
+  "created": "2020-02-27T10:40:50.097Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:veld",
+      "classification:wildebeest",
+      "classification:antelope",
+      "classification:ruminant",
+      "classification:mammal",
+      "classification:animal",
+      "classification:steppe",
+      "classification:sassaby antelope",
+      "classification:light brown color",
+      "classification:tan color"
+    ],
+    "declined": [
+      "classification:veld",
+      "classification:steppe",
+      "classification:wildebeest",
+      "classification:antelope",
+      "classification:ruminant",
+      "classification:mammal",
+      "classification:animal",
+      "classification:light brown color",
+      "classification:tan color"
+    ],
+    "values": [
+      "classification:sassaby antelope",
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "veld",
+      "wildebeest",
+      "antelope",
+      "ruminant",
+      "mammal",
+      "animal",
+      "steppe",
+      "sassaby antelope",
+      "light brown color",
+      "tan color"
+    ],
+    "colors": {
+      "vibrant": "#b7875e",
+      "muted": "#ac7d55",
+      "darkVibrant": "#644424",
+      "darkMuted": "#563c2e",
+      "lightVibrant": "#cdac8e",
+      "lightMuted": "#b1d2d0"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1191615,
+  "name": "Kenya-Article-Image",
+  "lastModified": "2020-02-27T11:05:25.995Z",
+  "status": "ready"
+}

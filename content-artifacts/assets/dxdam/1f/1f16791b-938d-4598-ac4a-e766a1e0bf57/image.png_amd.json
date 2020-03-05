@@ -1,0 +1,108 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1400,
+    "height": 1148
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "e1133503-2cd0-49ac-93d6-9154d600a9d7",
+  "path": "/dxdam/1f/1f16791b-938d-4598-ac4a-e766a1e0bf57/image.png",
+  "digest": "TSylkPOT5dWrPuJuWH79Uw==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=0c4f82f5-9cf7-4466-a452-391dcafdbaa0&a=42a258ed-6031-4c7d-9505-aa8cf63f6c9c",
+      "source": "/authoring/v1/resources/0c4f82f5-9cf7-4466-a452-391dcafdbaa0"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/42a258ed-6031-4c7d-9505-aa8cf63f6c9c"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/0c4f82f5-9cf7-4466-a452-391dcafdbaa0.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/0c4f82f5-9cf7-4466-a452-391dcafdbaa0?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/42a258ed-6031-4c7d-9505-aa8cf63f6c9c/status/retire"
+    }
+  },
+  "id": "42a258ed-6031-4c7d-9505-aa8cf63f6c9c",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:24.198Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-4c6606cb4ce96acd887905a4b11c1f93",
+  "creator": "Namer Namerko",
+  "altText": "Ancient ruins on a mountain in Peru.",
+  "resource": "0c4f82f5-9cf7-4466-a452-391dcafdbaa0",
+  "created": "2020-02-27T10:40:46.320Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:alp",
+      "classification:nature",
+      "classification:ridge",
+      "classification:hill",
+      "classification:mountain",
+      "classification:mountainside",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:greenishness color"
+    ],
+    "declined": [],
+    "values": [
+      "classification:alp",
+      "classification:greenishness color",
+      "classification:mountain",
+      "classification:hill",
+      "classification:ridge",
+      "classification:nature",
+      "user:travel site sample",
+      "classification:natural elevation",
+      "classification:slope",
+      "classification:mountainside"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "alp",
+      "nature",
+      "ridge",
+      "hill",
+      "mountain",
+      "mountainside",
+      "slope",
+      "natural elevation",
+      "greenishness color"
+    ],
+    "colors": {
+      "vibrant": "#94aacf",
+      "muted": "#8f8f5e",
+      "darkVibrant": "#66702c",
+      "darkMuted": "#54542c",
+      "lightVibrant": "#acccec",
+      "lightMuted": "#b5c0d6"
+    },
+    "status": "complete"
+  },
+  "fileSize": 894848,
+  "name": "Peru-Article-Image",
+  "lastModified": "2020-02-27T11:05:24.198Z",
+  "status": "ready"
+}

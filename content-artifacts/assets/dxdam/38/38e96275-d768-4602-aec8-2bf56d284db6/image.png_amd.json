@@ -1,0 +1,115 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "b074f675-a2d4-4c18-aaee-4826815c6332",
+  "path": "/dxdam/38/38e96275-d768-4602-aec8-2bf56d284db6/image.png",
+  "digest": "ZTEgyAlXOFvGXnLfvs9HgQ==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=0d20d531-c12e-44f4-a8e8-fff292547e88&a=8c4204e9-71fb-4861-87d1-65ef5b0aa4e6",
+      "source": "/authoring/v1/resources/0d20d531-c12e-44f4-a8e8-fff292547e88"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/8c4204e9-71fb-4861-87d1-65ef5b0aa4e6"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/0d20d531-c12e-44f4-a8e8-fff292547e88.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/0d20d531-c12e-44f4-a8e8-fff292547e88?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/8c4204e9-71fb-4861-87d1-65ef5b0aa4e6/status/retire"
+    }
+  },
+  "id": "8c4204e9-71fb-4861-87d1-65ef5b0aa4e6",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:24.963Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-3bad6eada53d11a91f937dc3e1d90a6b",
+  "creator": "Namer Namerko",
+  "altText": "Narrow stone street in Croatia.",
+  "resource": "0d20d531-c12e-44f4-a8e8-fff292547e88",
+  "created": "2020-02-27T10:40:54.815Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:Alley",
+      "classification:aisle",
+      "classification:Middle-Eastern City",
+      "classification:buttress (building)",
+      "classification:support",
+      "classification:supporting structure",
+      "classification:agora",
+      "classification:marketplace",
+      "classification:retail store",
+      "classification:building",
+      "classification:gray color"
+    ],
+    "declined": [
+      "classification:buttress (building)",
+      "classification:support",
+      "classification:supporting structure",
+      "classification:agora",
+      "classification:marketplace",
+      "classification:retail store",
+      "classification:building"
+    ],
+    "values": [
+      "classification:Middle-Eastern City",
+      "classification:aisle",
+      "user:travel site sample",
+      "classification:Alley",
+      "classification:gray color"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "Alley",
+      "aisle",
+      "Middle-Eastern City",
+      "buttress (building)",
+      "support",
+      "supporting structure",
+      "agora",
+      "marketplace",
+      "retail store",
+      "building",
+      "gray color"
+    ],
+    "colors": {
+      "vibrant": "#68ad51",
+      "muted": "#99866a",
+      "darkVibrant": "#243c1c",
+      "darkMuted": "#4a4138",
+      "lightVibrant": "#b0d4a4",
+      "lightMuted": "#b6b1a4"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1671091,
+  "name": "Croatia-Article-Image",
+  "lastModified": "2020-02-27T11:05:24.963Z",
+  "status": "ready"
+}

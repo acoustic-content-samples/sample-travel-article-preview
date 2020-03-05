@@ -1,0 +1,106 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 687
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "6a58ea28-dd02-4502-bfa6-778c20b6cec6",
+  "path": "/dxdam/29/2937e8b4-bcb4-4dbb-b576-c3a0b1e2281c/image.png",
+  "digest": "2A2J95QEObm3i9FE2ozQDg==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=359c3953-46fd-44be-8331-bf7098f38772&a=6ab4dba7-2cb4-4b69-ba82-d6d2159acbab",
+      "source": "/authoring/v1/resources/359c3953-46fd-44be-8331-bf7098f38772"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/6ab4dba7-2cb4-4b69-ba82-d6d2159acbab"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/359c3953-46fd-44be-8331-bf7098f38772.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/359c3953-46fd-44be-8331-bf7098f38772?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/6ab4dba7-2cb4-4b69-ba82-d6d2159acbab/status/retire"
+    }
+  },
+  "id": "6ab4dba7-2cb4-4b69-ba82-d6d2159acbab",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:24.640Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-5c13fb0ea92d44f45696af8ac0371b98",
+  "creator": "Namer Namerko",
+  "altText": "Florence Cathedral with Brunelleschi Dome in Italy.",
+  "resource": "359c3953-46fd-44be-8331-bf7098f38772",
+  "created": "2020-02-27T10:40:46.654Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:religious building",
+      "classification:building",
+      "classification:Skyline (day)",
+      "classification:church tower",
+      "classification:tower",
+      "classification:city",
+      "classification:pinnacle (tower of building)",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:religious building",
+      "classification:building",
+      "classification:Skyline (day)",
+      "classification:city",
+      "classification:church tower",
+      "classification:tower",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "classification:pinnacle (tower of building)",
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "religious building",
+      "building",
+      "Skyline (day)",
+      "church tower",
+      "tower",
+      "city",
+      "pinnacle (tower of building)",
+      "reddish orange color"
+    ],
+    "colors": {
+      "vibrant": "#cca494",
+      "muted": "#6c87a6",
+      "darkVibrant": "#59382a",
+      "darkMuted": "#654b50",
+      "lightVibrant": "#abc3dc",
+      "lightMuted": "#acbfcf"
+    },
+    "status": "complete"
+  },
+  "fileSize": 634779,
+  "name": "Italy-Article-Image",
+  "lastModified": "2020-02-27T11:05:24.640Z",
+  "status": "ready"
+}

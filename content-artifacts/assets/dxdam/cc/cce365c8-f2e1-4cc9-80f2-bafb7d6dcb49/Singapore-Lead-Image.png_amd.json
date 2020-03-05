@@ -1,0 +1,132 @@
+{
+  "fileName": "Singapore-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "44d1fc85-bd1b-40d0-b9dc-d1efce9f6d80",
+  "path": "/dxdam/cc/cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49/Singapore-Lead-Image.png",
+  "digest": "gBD73DLph9TA9dyV1qW1PQ==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=dd93f8e7-4a91-4e33-bacc-01d89699502b&a=cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49",
+      "source": "/authoring/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49/status/retire"
+    }
+  },
+  "id": "cce365c8-f2e1-4cc9-80f2-bafb7d6dcb49",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:27.389Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName": "Travel Article Image Profile",
+      "key": "card",
+      "label": "Card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/dd93f8e7-4a91-4e33-bacc-01d89699502b?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "34-e90133e4883c4526aca0961889acb0d6",
+  "creator": "Namer Namerko",
+  "altText": "Colonial-style colorful buildings in Singapore.",
+  "resource": "dd93f8e7-4a91-4e33-bacc-01d89699502b",
+  "created": "2020-02-27T10:40:56.341Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:guildhall (ornate building)",
+      "classification:hall",
+      "classification:building",
+      "classification:deanery",
+      "classification:residence",
+      "classification:town hall",
+      "classification:government building",
+      "classification:institution",
+      "classification:brick red color"
+    ],
+    "declined": [
+      "classification:guildhall (ornate building)",
+      "classification:hall",
+      "classification:building",
+      "classification:deanery",
+      "classification:residence",
+      "classification:town hall",
+      "classification:government building",
+      "classification:institution",
+      "classification:brick red color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "guildhall (ornate building)",
+      "hall",
+      "building",
+      "deanery",
+      "residence",
+      "town hall",
+      "government building",
+      "institution",
+      "brick red color"
+    ],
+    "colors": {
+      "vibrant": "#ae6d48",
+      "muted": "#63aba6",
+      "darkVibrant": "#4c3c14",
+      "darkMuted": "#502b2d",
+      "lightVibrant": "#d49baf",
+      "lightMuted": "#c88fa4"
+    },
+    "status": "complete"
+  },
+  "fileSize": 450232,
+  "name": "Singapore-Lead-Image.png",
+  "lastModified": "2020-02-27T11:05:27.389Z",
+  "status": "ready"
+}

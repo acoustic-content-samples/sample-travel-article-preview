@@ -1,0 +1,32 @@
+{
+  "id": "a26366ee-c584-4c2f-9147-3b92664792b0",
+  "rev": "19-52d589ca5a3fdefe16b65fa207c2c7c0",
+  "name": "Peru",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "creator": "Namer Namerko",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "2235156b-4238-4797-856c-19617fed0563",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "2235156b-4238-4797-856c-19617fed0563"
+  ],
+  "namePath": [
+    "Locations",
+    "South America",
+    "Peru"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/a26366ee-c584-4c2f-9147-3b92664792b0"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/2235156b-4238-4797-856c-19617fed0563"
+    }
+  },
+  "created": "2020-02-27T10:40:43.354Z",
+  "lastModified": "2020-02-27T11:05:20.340Z"
+}

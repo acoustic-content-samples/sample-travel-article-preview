@@ -1,0 +1,127 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "ad130bf8-8b7b-401d-bcb0-efba46b8c3e1",
+  "path": "/dxdam/3a/3a71b9cf-f6da-4b66-85f7-421c5a693d1e/image.png",
+  "digest": "Ty84J7CvEj7rVJbqAhhRzA==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=53b94276-9619-4f7a-bce8-7d663117bd51&a=8bb42682-08dd-4b1f-8cc0-0deef30bfa0c",
+      "source": "/authoring/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/8bb42682-08dd-4b1f-8cc0-0deef30bfa0c"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/53b94276-9619-4f7a-bce8-7d663117bd51?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/8bb42682-08dd-4b1f-8cc0-0deef30bfa0c/status/retire"
+    }
+  },
+  "id": "8bb42682-08dd-4b1f-8cc0-0deef30bfa0c",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:24.875Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "37-3c532d86ad309947cc49c63bbae40281",
+  "creator": "Namer Namerko",
+  "altText": "The landscape of Canada with a river, forest, boats, and mountains.",
+  "resource": "53b94276-9619-4f7a-bce8-7d663117bd51",
+  "created": "2020-02-27T10:40:48.763Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:canoe",
+      "classification:small boat",
+      "classification:boat",
+      "classification:watercraft",
+      "classification:craft",
+      "classification:vehicle",
+      "classification:kayak",
+      "classification:gorge",
+      "classification:valley",
+      "classification:nature",
+      "classification:Kayaking",
+      "classification:sport",
+      "classification:natural elevation",
+      "classification:sea green color",
+      "classification:reddish orange color"
+    ],
+    "declined": [
+      "classification:canoe",
+      "classification:small boat",
+      "classification:boat",
+      "classification:watercraft",
+      "classification:craft",
+      "classification:vehicle",
+      "classification:gorge",
+      "classification:valley",
+      "classification:nature",
+      "classification:kayak",
+      "classification:Kayaking",
+      "classification:sport",
+      "classification:natural elevation",
+      "classification:sea green color",
+      "classification:reddish orange color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "canoe",
+      "small boat",
+      "boat",
+      "watercraft",
+      "craft",
+      "vehicle",
+      "kayak",
+      "gorge",
+      "valley",
+      "nature",
+      "Kayaking",
+      "sport",
+      "natural elevation",
+      "sea green color",
+      "reddish orange color"
+    ],
+    "colors": {
+      "vibrant": "#80807e",
+      "muted": "#8a685b",
+      "darkVibrant": "#424241",
+      "darkMuted": "#404c47",
+      "lightVibrant": "#bdbdbc",
+      "lightMuted": "#c3c3c2"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1130797,
+  "name": "Canada-Article-Image",
+  "lastModified": "2020-02-27T11:05:24.875Z",
+  "status": "ready"
+}

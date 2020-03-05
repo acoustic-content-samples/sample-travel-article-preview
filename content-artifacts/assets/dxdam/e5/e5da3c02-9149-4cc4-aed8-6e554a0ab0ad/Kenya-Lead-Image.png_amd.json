@@ -1,0 +1,140 @@
+{
+  "fileName": "Kenya-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "73b3523e-b196-43cd-913d-d80e2ad2519e",
+  "path": "/dxdam/e5/e5da3c02-9149-4cc4-aed8-6e554a0ab0ad/Kenya-Lead-Image.png",
+  "digest": "BQn580mq8gU/a5QbHX918g==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a&a=e5da3c02-9149-4cc4-aed8-6e554a0ab0ad",
+      "source": "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/e5da3c02-9149-4cc4-aed8-6e554a0ab0ad"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/e5da3c02-9149-4cc4-aed8-6e554a0ab0ad/status/retire"
+    }
+  },
+  "id": "e5da3c02-9149-4cc4-aed8-6e554a0ab0ad",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:28.209Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName": "Travel Article Image Profile",
+      "key": "card",
+      "label": "Card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "34-8b137698c5180b49dbaa93646378cf51",
+  "creator": "Namer Namerko",
+  "altText": "A herd of elephants in the jungle.",
+  "resource": "6d5f20a5-5852-4b65-8e67-27b8b3f2ea7a",
+  "created": "2020-02-27T10:40:57.753Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:wisent bison",
+      "classification:ruminant",
+      "classification:mammal",
+      "classification:animal",
+      "classification:African elephant",
+      "classification:elephant",
+      "classification:pachyderm (thick skinned hoofed)",
+      "classification:Indian elephant",
+      "classification:bison",
+      "classification:plant",
+      "classification:light brown color",
+      "classification:greenishness color"
+    ],
+    "declined": [],
+    "values": [
+      "classification:greenishness color",
+      "classification:mammal",
+      "classification:elephant",
+      "classification:ruminant",
+      "classification:African elephant",
+      "classification:pachyderm (thick skinned hoofed)",
+      "classification:light brown color",
+      "classification:wisent bison",
+      "classification:Indian elephant",
+      "user:travel site sample",
+      "classification:plant",
+      "classification:bison",
+      "classification:animal"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "wisent bison",
+      "ruminant",
+      "mammal",
+      "animal",
+      "African elephant",
+      "elephant",
+      "pachyderm (thick skinned hoofed)",
+      "Indian elephant",
+      "bison",
+      "plant",
+      "light brown color",
+      "greenishness color"
+    ],
+    "colors": {
+      "vibrant": "#909931",
+      "muted": "#928a65",
+      "darkVibrant": "#505d09",
+      "darkMuted": "#4f4c2a",
+      "lightVibrant": "#ceaf7c",
+      "lightMuted": "#c1beae"
+    },
+    "status": "complete"
+  },
+  "fileSize": 833010,
+  "name": "Kenya-Lead-Image.png",
+  "lastModified": "2020-02-27T11:05:28.209Z",
+  "status": "ready"
+}

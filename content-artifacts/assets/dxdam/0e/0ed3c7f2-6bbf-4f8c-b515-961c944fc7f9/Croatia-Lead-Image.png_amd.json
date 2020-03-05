@@ -1,0 +1,144 @@
+{
+  "fileName": "Croatia-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "ddf1ff50-e3bb-4fb2-bbef-21c1713c0148",
+  "path": "/dxdam/0e/0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9/Croatia-Lead-Image.png",
+  "digest": "qHwGxusrgLHV+/L+yf58qw==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=e4c51ad0-46ff-471a-b309-2c505cbdbb39&a=0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+      "source": "/authoring/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9/status/retire"
+    }
+  },
+  "id": "0ed3c7f2-6bbf-4f8c-b515-961c944fc7f9",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:24.119Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName": "Travel Article Image Profile",
+      "key": "card",
+      "label": "Card",
+      "transform": {
+        "scale": 0.43252,
+        "crop": {
+          "x": 290,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/e4c51ad0-46ff-471a-b309-2c505cbdbb39?resize=830px:250px&crop=250:250;290,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "34-2b5d04ab16f184cf3b339c313b17e805",
+  "creator": "Namer Namerko",
+  "altText": "The landscape of Croatia with famous red-roof buildings, hilly terrain, covered with forests, and small bays.",
+  "resource": "e4c51ad0-46ff-471a-b309-2c505cbdbb39",
+  "created": "2020-02-27T10:40:46.239Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:stronghold",
+      "classification:defensive structure",
+      "classification:shore",
+      "classification:nature",
+      "classification:kasbah (old quarters)",
+      "classification:building",
+      "classification:seashore",
+      "classification:fortress",
+      "classification:waterside",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:light brown color",
+      "classification:blue color"
+    ],
+    "declined": [
+      "classification:stronghold",
+      "classification:defensive structure",
+      "classification:shore",
+      "classification:nature",
+      "classification:kasbah (old quarters)",
+      "classification:building",
+      "classification:seashore",
+      "classification:fortress",
+      "classification:waterside",
+      "classification:slope",
+      "classification:natural elevation",
+      "classification:light brown color",
+      "classification:blue color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "stronghold",
+      "defensive structure",
+      "shore",
+      "nature",
+      "kasbah (old quarters)",
+      "building",
+      "seashore",
+      "fortress",
+      "waterside",
+      "slope",
+      "natural elevation",
+      "light brown color",
+      "blue color"
+    ],
+    "colors": {
+      "vibrant": "#b56d44",
+      "muted": "#947352",
+      "darkVibrant": "#2c545c",
+      "darkMuted": "#544230",
+      "lightVibrant": "#dec298",
+      "lightMuted": "#c5af92"
+    },
+    "status": "complete"
+  },
+  "fileSize": 677551,
+  "name": "Croatia-Lead-Image.png",
+  "lastModified": "2020-02-27T11:05:24.119Z",
+  "status": "ready"
+}

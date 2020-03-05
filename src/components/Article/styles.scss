@@ -1,0 +1,75 @@
+$main-heading-font-size: 2.25em;
+$main-font-size: 0.875em;
+$font-secondary: #757575;
+
+.article {
+  font-size: $main-font-size;
+  font-family: 'Roboto-Regular';
+
+  .header {
+    margin: auto;
+    padding-bottom: 2%;
+    position: relative;
+
+    @media screen and (min-width: 1440px) {
+      width: 60%;
+    }
+    @media screen and (min-width: 800px) {
+      width: 80%;
+    }
+
+    @media screen and (max-width: 799px) {
+      width: 95%;
+    }
+
+    h1 {
+      font-size: $main-heading-font-size;
+      margin-top: 1%;
+    }
+
+    .details {
+      color: $font-secondary;
+
+      span:first-of-type {
+        margin-right: 1%;
+      }
+    }
+  }
+
+  section {
+    & > div {
+      margin: auto;
+
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+      @media screen and (min-width: 1440px) {
+        width: 60%;
+      }
+      @media screen and (min-width: 800px) {
+        width: 80%;
+      }
+
+      @media screen and (max-width: 799px) {
+        width: 95%;
+      }
+    }
+
+    & > img {
+      width: 100vw;
+    }
+
+    .articleContent {
+      img {
+        @media screen and (max-width: 1024px) {
+          margin-bottom: 5%;
+        }
+
+        @media screen and (min-width: 1280px) {
+          margin: 1%;
+        }
+      }
+    }
+  }
+}

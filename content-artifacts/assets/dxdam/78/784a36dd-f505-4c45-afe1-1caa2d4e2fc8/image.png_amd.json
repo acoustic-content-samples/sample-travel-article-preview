@@ -1,0 +1,115 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1285
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "7961ff40-80a1-4f7b-9857-1c5ea2bd5349",
+  "path": "/dxdam/78/784a36dd-f505-4c45-afe1-1caa2d4e2fc8/image.png",
+  "digest": "OZPOIkLWjZskN+eafAM9sA==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=e3df325d-f033-4def-bf41-a5dc391aa4c2&a=0e06e493-148b-4ddd-b300-a422ca05aea2",
+      "source": "/authoring/v1/resources/e3df325d-f033-4def-bf41-a5dc391aa4c2"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/0e06e493-148b-4ddd-b300-a422ca05aea2"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/e3df325d-f033-4def-bf41-a5dc391aa4c2.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/e3df325d-f033-4def-bf41-a5dc391aa4c2?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/0e06e493-148b-4ddd-b300-a422ca05aea2/status/retire"
+    }
+  },
+  "id": "0e06e493-148b-4ddd-b300-a422ca05aea2",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:26.227Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-846a693d6f23bd71cca62c18435f66f7",
+  "creator": "Namer Namerko",
+  "altText": "A skier descends a slope in the USA.",
+  "resource": "e3df325d-f033-4def-bf41-a5dc391aa4c2",
+  "created": "2020-02-27T10:40:51.729Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:person",
+      "classification:ascent",
+      "classification:slope",
+      "classification:nature",
+      "classification:descent",
+      "classification:piste (ski run)",
+      "classification:road",
+      "classification:downhill",
+      "classification:natural elevation",
+      "classification:sport",
+      "classification:azure color"
+    ],
+    "declined": [
+      "classification:person",
+      "classification:ascent",
+      "classification:slope",
+      "classification:nature",
+      "classification:descent",
+      "classification:downhill",
+      "classification:piste (ski run)",
+      "classification:road",
+      "classification:natural elevation",
+      "classification:azure color"
+    ],
+    "values": [
+      "classification:sport",
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "person",
+      "ascent",
+      "slope",
+      "nature",
+      "descent",
+      "piste (ski run)",
+      "road",
+      "downhill",
+      "natural elevation",
+      "sport",
+      "azure color"
+    ],
+    "colors": {
+      "vibrant": "#628ab4",
+      "muted": "#506983",
+      "darkVibrant": "#2c4464",
+      "darkMuted": "#34404d",
+      "lightVibrant": "#6494b9",
+      "lightMuted": "#abbbc8"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1465025,
+  "name": "United States-Article-Image",
+  "lastModified": "2020-02-27T11:05:26.227Z",
+  "status": "ready"
+}

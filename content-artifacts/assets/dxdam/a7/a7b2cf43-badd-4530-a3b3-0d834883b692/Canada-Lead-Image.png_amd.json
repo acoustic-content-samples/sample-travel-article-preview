@@ -1,0 +1,135 @@
+{
+  "fileName": "Canada-Lead-Image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 578
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "475a6641-e7a4-443f-a3cb-0085c5de858c",
+  "path": "/dxdam/a7/a7b2cf43-badd-4530-a3b3-0d834883b692/Canada-Lead-Image.png",
+  "digest": "7FdWT6YTV0jyIJQuK5rVTg==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=df1678a1-7ac4-4aab-a590-5e22411a8904&a=a7b2cf43-badd-4530-a3b3-0d834883b692",
+      "source": "/authoring/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/a7b2cf43-badd-4530-a3b3-0d834883b692"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/a7b2cf43-badd-4530-a3b3-0d834883b692/status/retire"
+    }
+  },
+  "id": "a7b2cf43-badd-4530-a3b3-0d834883b692",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:27.462Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "profileRenditions": [
+    {
+      "profileId": "59414bcf-8ccb-4809-9117-47b7a64864a0",
+      "profileName": "Travel Article Image Profile",
+      "key": "card",
+      "label": "Card",
+      "transform": {
+        "scale": 0.43252595155709345,
+        "crop": {
+          "x": 529,
+          "y": 0,
+          "width": 250,
+          "height": 250
+        }
+      },
+      "uri": "/authoring/v1/resources/df1678a1-7ac4-4aab-a590-5e22411a8904?resize=830px:250px&crop=250:250;529,0",
+      "width": 250,
+      "height": 250
+    }
+  ],
+  "rev": "38-504aaaab7d1ed8d6aaf5aa7cc6ab62c8",
+  "creator": "Namer Namerko",
+  "altText": "The landscape of Canada with a river, forest, and snowy mountains.",
+  "resource": "df1678a1-7ac4-4aab-a590-5e22411a8904",
+  "created": "2020-02-27T10:40:55.010Z",
+  "profiles": [
+    "59414bcf-8ccb-4809-9117-47b7a64864a0"
+  ],
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:ridge",
+      "classification:nature",
+      "classification:continental glacier",
+      "classification:glacier",
+      "classification:ice mass",
+      "classification:cirque (basin)",
+      "classification:natural elevation",
+      "classification:mountain range",
+      "classification:sea green color",
+      "classification:greenish blue color"
+    ],
+    "declined": [
+      "classification:ridge",
+      "classification:nature",
+      "classification:continental glacier",
+      "classification:glacier",
+      "classification:ice mass",
+      "classification:cirque (basin)",
+      "classification:natural elevation",
+      "classification:mountain range",
+      "classification:sea green color",
+      "classification:greenish blue color"
+    ],
+    "values": [
+      "user:travel site sample"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "ridge",
+      "nature",
+      "continental glacier",
+      "glacier",
+      "ice mass",
+      "cirque (basin)",
+      "natural elevation",
+      "mountain range",
+      "sea green color",
+      "greenish blue color"
+    ],
+    "colors": {
+      "vibrant": "#058e98",
+      "muted": "#669da0",
+      "darkVibrant": "#047c88",
+      "darkMuted": "#4c4739",
+      "lightVibrant": "#7ef2fa",
+      "lightMuted": "#b4c6c4"
+    },
+    "status": "complete"
+  },
+  "fileSize": 617185,
+  "name": "Canada-Lead-Image.png",
+  "lastModified": "2020-02-27T11:05:27.462Z",
+  "status": "ready"
+}

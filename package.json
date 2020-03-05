@@ -1,0 +1,41 @@
+{
+  "name": "acoustic-ui-extension-react-sample",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "homepage": "/08e1d660-ea87-48dc-843d-78579aaaac0a/dxauth/ui-extension-article-preview",
+  "dependencies": {
+    "@ibm-wch/ui-extensions": "1.3.3",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "hub-build": "npm run build && node copyBuildFiles",
+    "hub-deploy": "wchtools push -A -v -I --dir build",
+    "hub-build-deploy": "npm run hub-build && npm run hub-deploy",
+    "init-content": "wchtools push -A -I -f -v --dir content-artifacts"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "node-sass": "4.13.1",
+    "shelljs": "0.8.3"
+  }
+}

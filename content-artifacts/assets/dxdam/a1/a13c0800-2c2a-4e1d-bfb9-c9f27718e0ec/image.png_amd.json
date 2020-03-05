@@ -1,0 +1,122 @@
+{
+  "fileName": "image.png",
+  "metadata": {
+    "width": 1920,
+    "height": 1441
+  },
+  "libraryId": "b066778e-7f87-4584-893a-a3f7c0e30232",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "description": "",
+  "caption": "",
+  "lastModifier": "Namer Namerko",
+  "mediaId": "8071d47c-b2ca-420b-8582-bbef71333cf0",
+  "path": "/dxdam/a1/a13c0800-2c2a-4e1d-bfb9-c9f27718e0ec/image.png",
+  "digest": "hd9+ay58rpHl2kWcbvhHVw==",
+  "lastModifierId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "renditions": {
+    "default": {
+      "id": "r=8591e603-ed71-4ee6-8322-7eaf45257644&a=2256b285-b712-4f6f-bf64-3a974cd84bd1",
+      "source": "/authoring/v1/resources/8591e603-ed71-4ee6-8322-7eaf45257644"
+    }
+  },
+  "links": {
+    "self": {
+      "href": "/authoring/v1/assets/2256b285-b712-4f6f-bf64-3a974cd84bd1"
+    },
+    "media": {
+      "href": "/authoring/v1/resources/8591e603-ed71-4ee6-8322-7eaf45257644.png"
+    },
+    "thumbnail": {
+      "href": "/authoring/v1/resources/8591e603-ed71-4ee6-8322-7eaf45257644?fit=inside%7C220:145"
+    },
+    "retire": {
+      "href": "/authoring/v1/changes/asset/2256b285-b712-4f6f-bf64-3a974cd84bd1/status/retire"
+    }
+  },
+  "id": "2256b285-b712-4f6f-bf64-3a974cd84bd1",
+  "categories": [],
+  "usageRights": {
+    "categories": []
+  },
+  "systemModified": "2020-02-27T11:05:26.994Z",
+  "publishing": {
+    "status": "not-available"
+  },
+  "rev": "34-f993662f9acdf29a23caed4a3e793ec0",
+  "creator": "Namer Namerko",
+  "altText": "Fountain at the airport in Singapore.",
+  "resource": "8591e603-ed71-4ee6-8322-7eaf45257644",
+  "created": "2020-02-27T10:40:54.656Z",
+  "mediaType": "image/png",
+  "classification": "asset",
+  "tags": {
+    "suggested": [
+      "classification:fountain",
+      "classification:observation tower",
+      "classification:sprinkler system",
+      "classification:system",
+      "classification:funnel",
+      "classification:pedestal",
+      "classification:support",
+      "classification:birdbath",
+      "classification:equipment",
+      "classification:building",
+      "classification:sage green color",
+      "classification:steel blue color"
+    ],
+    "declined": [
+      "classification:fountain",
+      "classification:sprinkler system",
+      "classification:system",
+      "classification:boiling water reactor",
+      "classification:nuclear reactor",
+      "classification:apparatus",
+      "classification:funnel",
+      "classification:equipment",
+      "classification:building",
+      "classification:greenishness color",
+      "classification:sage green color"
+    ],
+    "values": [
+      "classification:steel blue color",
+      "classification:support",
+      "classification:observation tower",
+      "user:travel site sample",
+      "classification:birdbath",
+      "classification:pedestal"
+    ],
+    "analysis": "complete"
+  },
+  "assetType": "image",
+  "isManaged": true,
+  "categoryIds": [],
+  "cognitive": {
+    "classifications": [
+      "fountain",
+      "observation tower",
+      "sprinkler system",
+      "system",
+      "funnel",
+      "pedestal",
+      "support",
+      "birdbath",
+      "equipment",
+      "building",
+      "sage green color",
+      "steel blue color"
+    ],
+    "colors": {
+      "vibrant": "#3c9dc2",
+      "muted": "#83887f",
+      "darkVibrant": "#0d222a",
+      "darkMuted": "#324c3f",
+      "lightVibrant": "#99ccdf",
+      "lightMuted": "#c0c4c8"
+    },
+    "status": "complete"
+  },
+  "fileSize": 1858657,
+  "name": "Singapore-Article-Image",
+  "lastModified": "2020-02-27T11:05:26.994Z",
+  "status": "ready"
+}

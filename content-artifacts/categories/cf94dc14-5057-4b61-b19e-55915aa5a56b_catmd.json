@@ -1,0 +1,32 @@
+{
+  "id": "cf94dc14-5057-4b61-b19e-55915aa5a56b",
+  "rev": "19-e06682a9a473523fd27f3af9d47bc919",
+  "name": "Croatia",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "creator": "Namer Namerko",
+  "classification": "category",
+  "taxonomy": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "parent": "ef2c6a7b-2f72-42c4-a35a-6599b530f056",
+  "ancestorIds": [
+    "478f06ce-90a4-41df-95c3-2b25285d4791",
+    "ef2c6a7b-2f72-42c4-a35a-6599b530f056"
+  ],
+  "namePath": [
+    "Locations",
+    "Europe",
+    "Croatia"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/cf94dc14-5057-4b61-b19e-55915aa5a56b"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/ef2c6a7b-2f72-42c4-a35a-6599b530f056"
+    }
+  },
+  "created": "2020-02-27T10:40:43.719Z",
+  "lastModified": "2020-02-27T11:05:20.418Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "478f06ce-90a4-41df-95c3-2b25285d4791",
+  "rev": "19-b8c74b148b4b5901e7b62f04c2dfb48e",
+  "name": "Locations",
+  "creatorId": "b3a8498b-d1fc-405c-bddf-5e38367b0958",
+  "creator": "Namer Namerko",
+  "description": "List of countries and regions.",
+  "classification": "taxonomy",
+  "firstClassFor": [
+    ""
+  ],
+  "namePath": [
+    "Locations"
+  ],
+  "links": {
+    "self": {
+      "href": "/authoring/v1/categories/478f06ce-90a4-41df-95c3-2b25285d4791"
+    }
+  },
+  "created": "2020-02-27T10:40:42.678Z",
+  "lastModified": "2020-02-27T11:05:20.049Z"
+}
